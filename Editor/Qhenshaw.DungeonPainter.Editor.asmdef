@@ -1,0 +1,18 @@
+{
+    "name": "Qhenshaw.DungeonPainter.Editor",
+    "rootNamespace": "Qhenshaw.DungeonPainter.Editor",
+    "references": [
+        "GUID:f7382e44cd761fd4f94bae17da1dd831"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
